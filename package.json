@@ -1,0 +1,22 @@
+{
+  "name": "bevi",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkalupahana/bevi-remote-dispense.git"
+  },
+  "author": "Nisala Kalupahana",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nkalupahana/bevi-remote-dispense/issues"
+  },
+  "homepage": "https://github.com/nkalupahana/bevi-remote-dispense#readme",
+  "description": "",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
